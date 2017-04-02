@@ -1,0 +1,3 @@
+[submodule "KoTHComm"]
+	path = KoTHComm
+	url = https://github.com/nathanmerrill/KoTHComm
